@@ -51,28 +51,16 @@
 
 
 
-<hr>
 
-### ✍️ Random Dev Quote
-<table align="center">
 
-<tr>
-  <td>
-    <img height = "200" width = "600" src = "https://quotes-github-readme.vercel.app/api?theme=radical&type=horizontal"/>
-  </td>
-</tr>
-  
-
-</table>
 
 <hr>
 
 # 💫 About Me:
 
-  - 🔭 I am Student of Information Technology 🎓 at DHARMSINH DESAI UNIVERSITY
-  - 🌱 I'm currently in to devops <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  - 🔭 I am Student of Information Technology 🎓 at G H Patel College of Engineering & Technology
+  - 🌱 I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - 🤔 I'm looking at **Blockchain, AI-ML**
-  - 💬 Ask me about **Docker, linux, k8s**
 
 <hr>
 
