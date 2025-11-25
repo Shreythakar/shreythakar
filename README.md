@@ -69,8 +69,9 @@
 
 # 💫 About Me:
 
-  - 🔭 I am Student of G H Patel College of Engineering & Technology
+  - 🔭 I am Student of Information Technology 🎓 at G H Patel College of Engineering & Technology
   - 🌱 I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  
   - 🤔 I'm looking at **Blockchain, AI-ML**
   
 <hr>
