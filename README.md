@@ -1,10 +1,13 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%23C8BE25&size=35&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Shrey+Thakar++;"></a>
+  <img src="https://readme-typing-svg.demolab.com?size=30&duration=2800&pause=1000&color=%23C8BE25&center=true&vCenter=true&width=600&lines=Hi,+I'm+Shrey+Thakar;+Coder+%7C+Learner;Welcome+to+my+GitHub+Profile">
 </p>
+
+<!--<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%23C8BE25&size=35&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Shrey+Thakar++;"></a>
+</p>-->
 
 <div id="header" align="center">
 
-<img src="mihir hadavani both.gif">
 
   
 <img src="https://user-images.githubusercontent.com/78534043/230702315-61c57f39-ef9b-4e8b-b1ff-d6cbbb64c808.png">
@@ -15,16 +18,16 @@
 <table align="center">
   <tr>
     <td>
-      <a href = "https://linkedin.com/in/mihir-hadavani-996263232"><img height="60" width="60" src="https://img.icons8.com/doodle/48/linkedin--v2.png" /></a> 
+      <a href = "https://linkedin.com/"><img height="60" width="60" src="https://img.icons8.com/doodle/48/linkedin--v2.png" /></a> 
     </td>
     <td>
-      <a href = "https://leetcode.com/mihir21/"><img height="60" width="60" src="https://cdn.simpleicons.org/leetcode" /></a> 
+      <a href = "https://leetcode.com//"><img height="60" width="60" src="https://cdn.simpleicons.org/leetcode" /></a> 
     </td>
     <td>
-      <a href = "https://facebook.com/mihir2107"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/facebook-new.png" /> </a> 
+      <a href = "https://facebook.com/"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/facebook-new.png" /> </a> 
     </td>
     <td>
-      <a href = "https://www.instagram.com/_mihirh.21"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/instagram-new--v2.png" /></a> 
+      <a href = "https://www.instagram.com/"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/instagram-new--v2.png" /></a> 
     </td>
     
 
@@ -32,11 +35,11 @@
 
     
 <td>
-  <a href = "https://twitter.com/mihirh21"><img height="60" width="60" src="https://img.icons8.com/ios/50/FFFFFF/twitterx--v1.png" /></a> 
+  <a href = "https://twitter.com/"><img height="60" width="60" src="https://img.icons8.com/ios/50/FFFFFF/twitterx--v1.png" /></a> 
 </td>
     <td>
       
-<a href = "https://www.youtube.com/channel/UCjBiyOWjudpNUWcq5n2rCcQ"><img height="60" width="60" src="https://img.icons8.com/doodle/48/youtube-play--v2.png" /></a>
+<a href = "https://www.youtube.com/channel/UCjBiyOWjudpUWcq5n2rCcQ"><img height="60" width="60" src="https://img.icons8.com/doodle/48/youtube-play--v2.png" /></a>
     </td>
      
   <td>
