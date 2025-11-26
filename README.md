@@ -18,7 +18,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href = "https://linkedin.com/"><img height="60" width="60" src="https://img.icons8.com/doodle/48/linkedin--v2.png" /></a> 
+      <a href = "https://www.linkedin.com/in/shrey-thakar-691294373/"><img height="60" width="60" src="https://img.icons8.com/doodle/48/linkedin--v2.png" /></a> 
     </td>
     <td>
       <a href = "https://leetcode.com//"><img height="60" width="60" src="https://cdn.simpleicons.org/leetcode" /></a> 
