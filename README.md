@@ -29,12 +29,13 @@
     <td>
       <a href = "https://www.instagram.com/shr.3y_/"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/instagram-new--v2.png" /></a> 
     </td>
+    <!--
 <td>
   <a href = "https://twitter.com/"><img height="60" width="60" src="https://img.icons8.com/ios/50/FFFFFF/twitterx--v1.png" /></a> 
 </td>
-    <!--<td> 
 <a href = "https://www.youtube.com/channel/UCjBiyOWjudpUWcq5n2rCcQ"><img height="60" width="60" src="https://img.icons8.com/doodle/48/youtube-play--v2.png" /></a>
-    </td>-->
+    </td>
+  -->
      
   <td>
       <a href = "https://monkeytype.com/profile/mihir2004"><img height="40" width="40" src="https://cdn.simpleicons.org/monkeytype" /></a> 
@@ -62,7 +63,8 @@
 
   <tr>
     <td align="center" width="90">
-      <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="45" height="45" alt="css" title="C" />
+     <!-- <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="45" height="45" alt="css" title="C" />-->
+      <img src="https://img.icons8.com/?id=40670&format=png" width="45" height="45" alt="css" title="C" />
       <br>C      
     </td>
     <td align="center" width="90">
