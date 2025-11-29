@@ -11,7 +11,7 @@
 
   
 <img src="https://user-images.githubusercontent.com/78534043/230702315-61c57f39-ef9b-4e8b-b1ff-d6cbbb64c808.png">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=shreythakar"></a>
+
 </div>
 
 ## 🌐 Socials:
