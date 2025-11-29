@@ -63,12 +63,12 @@
 
   <tr>
     <td align="center" width="90">
-  <img src="https://img.icons8.com/color/48/c-programming.png" width="45" height="45" alt="c" title="C" />
-  <br>C
-    </td>
-    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45" alt="css" title="C++" />
       <br>C++    
+    </td>
+    <td align="center" width="90">
+  <img src="https://img.icons8.com/color/48/c-programming.png" width="45" height="45" alt="c" title="C" />
+  <br>C
     </td>
     <td align="center" width="90">
       <img src="https://img.icons8.com/plasticine/200/html-5.png" width="45" height="45" alt="html" title="html" />
@@ -82,7 +82,6 @@
       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="java" title="java" />
       <br>Java
     </td>
-    <!--
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="python" title="python" />
       <br>Python
