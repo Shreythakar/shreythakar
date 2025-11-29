@@ -63,9 +63,8 @@
 
   <tr>
     <td align="center" width="90">
-     <!-- <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="45" height="45" alt="css" title="C" />-->
-      <img src="https://img.icons8.com/?id=40670&format=png" width="45" height="45" alt="css" title="C" />
-      <br>C      
+  <img src="https://img.icons8.com/color/48/c-programming.png" width="45" height="45" alt="c" title="C" />
+  <br>C
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45" alt="css" title="C++" />
