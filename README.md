@@ -38,7 +38,7 @@
   -->
      
   <td>
-      <a href = "https://monkeytype.com/profile/ShreyThakar/"><img height="40" width="40" src="https://cdn.simpleicons.org/monkeytype" /></a> 
+      <a href = "https://monkeytype.com/account"><img height="40" width="40" src="https://cdn.simpleicons.org/monkeytype" /></a> 
     </td>
     
   </tr>
