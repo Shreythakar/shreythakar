@@ -75,6 +75,10 @@
       <br>CSS   
     </td>
     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="javascript" title="javascript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="java" title="java" />
       <br>Java
     </td>
