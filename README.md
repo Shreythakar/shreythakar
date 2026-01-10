@@ -18,19 +18,22 @@
 <table align="center">
   <tr>
     <td>
-      <a href = "https://www.linkedin.com/in/shrey-thakar-691294373/"><img height="60" width="60" src="https://img.icons8.com/doodle/48/linkedin--v2.png" /></a> 
+      <a href = "https://www.linkedin.com/in/shrey-thakar-691294373/"><img height="60" width="60" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" /></a> 
     </td>
     <td>
-      <a href = "https://leetcode.com/u/ShreyThakar/"><img height="60" width="60" src="https://cdn.simpleicons.org/leetcode" /></a> 
+      <a href = "https://www.hackerrank.com/profile/ShreyThakar"><img height="60" width="60" src="https://img.icons8.com/?size=100&id=bcdiBt8pFXfZ&format=png&color=000000" /></a> 
     </td>
     <!--<td>
+      <a href = "https://leetcode.com/u/ShreyThakar/"><img height="60" width="60" src="https://cdn.simpleicons.org/leetcode" /></a> 
+    </td>
+    <td>
       <a href = "https://facebook.com/"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/facebook-new.png" /> </a> 
     </td>-->
     <td>
       <a href = "https://www.instagram.com/shr.3y_/"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/instagram-new--v2.png" /></a> 
     </td>
     <!--
-<td>
+<td>https://img.icons8.com/plasticine/100/instagram-new--v2.png
   <a href = "https://twitter.com/"><img height="60" width="60" src="https://img.icons8.com/ios/50/FFFFFF/twitterx--v1.png" /></a> 
 </td>
 <a href = "https://www.youtube.com/channel/UCjBiyOWjudpUWcq5n2rCcQ"><img height="60" width="60" src="https://img.icons8.com/doodle/48/youtube-play--v2.png" /></a>
